@@ -1661,7 +1661,7 @@ const Demo: React.FC = () => {
                 className="h-10 w-auto object-contain"
                 onError={(event) => { event.currentTarget.style.display = 'none'; }}
               />
-              <span className="hidden text-sm font-bold text-slate-300 sm:inline">الديمو التسويقي</span>
+              <span className="hidden text-sm font-bold text-slate-300 sm:inline">ديمو لأصحاب القرار</span>
             </Link>
             <nav className="flex items-center gap-2">
               <Link
